@@ -1,0 +1,9 @@
+]]></objectconnection>
+	<objecttype><![CDATA[VIEW]]></objecttype>
+	<objectschema><![CDATA[SYS]]></objectschema>
+	<objectname><![CDATA[ALL_OBJECTS]]></objectname>
+	<include><![CDATA[true]]></include>
+	<meta><![CDATA[false]]></meta>
+	<data><![CDATA[true]]></data>
+	<filter><![CDATA[
+	owner = '

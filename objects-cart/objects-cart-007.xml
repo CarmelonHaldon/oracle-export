@@ -1,0 +1,2 @@
+') and
+	not regexp_like(object_type || ',' || object_name, '
